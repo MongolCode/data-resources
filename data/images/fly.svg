@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wings -->
+  <ellipse cx="35" cy="40" rx="20" ry="10" fill="#87CEEB" stroke="#4682B4" stroke-width="1" transform="rotate(-30 35 40)" opacity="0.7"/>
+  <ellipse cx="65" cy="40" rx="20" ry="10" fill="#87CEEB" stroke="#4682B4" stroke-width="1" transform="rotate(30 65 40)" opacity="0.7"/>
+  <!-- Body -->
+  <ellipse cx="50" cy="50" rx="10" ry="15" fill="#2F4F4F"/>
+  <!-- Head -->
+  <circle cx="50" cy="35" r="8" fill="#000000"/>
+  <!-- Eyes -->
+  <circle cx="46" cy="33" r="3" fill="#FF0000"/>
+  <circle cx="54" cy="33" r="3" fill="#FF0000"/>
+  <!-- Legs -->
+  <path d="M45 50 L 30 60" stroke="#000000" stroke-width="1"/>
+  <path d="M55 50 L 70 60" stroke="#000000" stroke-width="1"/>
+  <path d="M45 55 L 30 70" stroke="#000000" stroke-width="1"/>
+  <path d="M55 55 L 70 70" stroke="#000000" stroke-width="1"/>
+</svg>

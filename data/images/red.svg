@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paint Splatter -->
+  <path d="M50 20 Q 70 10 80 30 Q 95 40 85 60 Q 90 80 70 85 Q 50 95 30 85 Q 10 80 15 60 Q 5 40 20 30 Q 30 10 50 20 Z" fill="#FF0000" stroke="#8B0000" stroke-width="2"/>
+  <!-- Highlight -->
+  <ellipse cx="40" cy="40" rx="10" ry="5" fill="#FFFFFF" opacity="0.3" transform="rotate(-45 40 40)"/>
+</svg>

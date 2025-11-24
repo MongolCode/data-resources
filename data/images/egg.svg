@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Egg -->
+  <path d="M50 10 Q 90 10 90 60 Q 90 95 50 95 Q 10 95 10 60 Q 10 10 50 10 Z" fill="#FFEFD5" stroke="#DEB887" stroke-width="2"/>
+  <!-- Shine -->
+  <ellipse cx="35" cy="30" rx="10" ry="15" fill="#FFFFFF" opacity="0.6" transform="rotate(-20 35 30)"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF69B4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF1493;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Wings -->
+  <path d="M50 50 Q 20 10 5 40 Q 20 80 50 60" fill="url(#wing)" stroke="#C71585" stroke-width="2"/>
+  <path d="M50 50 Q 80 10 95 40 Q 80 80 50 60" fill="url(#wing)" stroke="#C71585" stroke-width="2"/>
+  <path d="M50 60 Q 30 90 20 70 Q 40 50 50 60" fill="#FFB6C1" stroke="#C71585" stroke-width="2"/>
+  <path d="M50 60 Q 70 90 80 70 Q 60 50 50 60" fill="#FFB6C1" stroke="#C71585" stroke-width="2"/>
+  <!-- Body -->
+  <ellipse cx="50" cy="50" rx="3" ry="25" fill="#4B0082"/>
+  <!-- Antennae -->
+  <path d="M48 25 Q 40 10 35 15" stroke="#4B0082" stroke-width="2" fill="none"/>
+  <path d="M52 25 Q 60 10 65 15" stroke="#4B0082" stroke-width="2" fill="none"/>
+</svg>

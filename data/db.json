@@ -1,0 +1,361 @@
+{
+    "courses": [
+        {
+            "id": "a",
+            "mongolian": "ᠠ",
+            "english": "a",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "e",
+            "mongolian": "ᠡ",
+            "english": "e",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "i",
+            "mongolian": "ᠢ",
+            "english": "i",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "o",
+            "mongolian": "ᠤ",
+            "english": "o",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "u",
+            "mongolian": "ᠤ",
+            "english": "u",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "v",
+            "mongolian": "ᠥ",
+            "english": "o",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        },
+        {
+            "id": "w",
+            "mongolian": "ᠦ",
+            "english": "v",
+            "image_uri": "",
+            "mongolian_pronounce": "a"
+        },
+        {
+            "id": "shulug",
+            "mongolian": "ᠰᠢᠯᠦᠭ",
+            "english": "Poem",
+            "image_uri": "",
+            "mongolian_pronounce": ""
+        }
+    ],
+    "course_a": [
+        {
+            "mongolian": "ᠠᠯᠮᠤᠷᠠᠳ",
+            "english": "Apple",
+            "chinese": "苹果",
+            "image_uri": "http://localhost:3000/images/apple.svg",
+            "mongolian_pronounce": "audios/a_apple1.mp3"
+        },
+        {
+            "mongolian": "ᠠᠯᠲᠠ",
+            "english": "Gold",
+            "chinese": "金",
+            "image_uri": "http://localhost:3000/images/gold.svg",
+            "mongolian_pronounce": "audios/a_gold.mp3"
+        },
+        {
+            "mongolian": "ᠠᠮᠠ",
+            "english": "Mouth",
+            "chinese": "嘴",
+            "image_uri": "http://localhost:3000/images/mouth.svg",
+            "mongolian_pronounce": "audios/a_mouth.mp3"
+        },
+        {
+            "mongolian": "ᠠᠯᠴᠢᠭᠤᠷ",
+            "english": "Towel",
+            "chinese": "毛巾",
+            "image_uri": "http://localhost:3000/images/towel.svg",
+            "mongolian_pronounce": "audios/a_towel.mp3"
+        },
+        {
+            "mongolian": "ᠠᠷᠰᠯᠠᠨ",
+            "english": "Lion",
+            "chinese": "狮子",
+            "image_uri": "http://localhost:3000/images/lion.svg",
+            "mongolian_pronounce": "audios/a_lion.mp3"
+        },
+        {
+            "mongolian": "ᠠᠶᠠᠭ᠎ᠠ",
+            "english": "Bowl",
+            "chinese": "碗",
+            "image_uri": "http://localhost:3000/images/bowl.svg",
+            "mongolian_pronounce": "audios/a_bowl.mp3"
+        },
+        {
+            "mongolian": "ᠠᠨᠠᠱᠢ",
+            "english": "Giraffe",
+            "chinese": "长颈鹿",
+            "image_uri": "http://localhost:3000/images/giraffe.svg",
+            "mongolian_pronounce": "audios/a_giraffe.mp3"
+        }
+    ],
+    "course_e": [
+        {
+            "mongolian": "ᠡᠷᠪᠡᠬᠡᠢ",
+            "english": "Butterfly",
+            "chinese": "蝴蝶",
+            "image_uri": "http://localhost:3000/images/butterfly.svg",
+            "mongolian_pronounce": "audios/e_butterfly.mp3"
+        },
+        {
+            "mongolian": "ᠡᠭᠦᠯᠡ",
+            "english": "Cloud",
+            "chinese": "云",
+            "image_uri": "http://localhost:3000/images/cloud.svg",
+            "mongolian_pronounce": "audios/e_cloud.mp3"
+        },
+        {
+            "mongolian": "ᠡᠯᠵᠢᠭᠡ",
+            "english": "Donkey",
+            "chinese": "驴",
+            "image_uri": "http://localhost:3000/images/donkey.svg",
+            "mongolian_pronounce": "audios/e_donkey.mp3"
+        },
+        {
+            "mongolian": "ᠡᠪᠡᠰᠦ",
+            "english": "Grass",
+            "chinese": "草",
+            "image_uri": "http://localhost:3000/images/grass.svg",
+            "mongolian_pronounce": "audios/e_grass.mp3"
+        },
+        {
+            "mongolian": "ᠡᠪᠡᠷ",
+            "english": "Horn",
+            "chinese": "角",
+            "image_uri": "http://localhost:3000/images/horn.svg",
+            "mongolian_pronounce": "audios/e_horn.mp3"
+        },
+        {
+            "mongolian": "ᠡᠭᠦᠷ",
+            "english": "Nest",
+            "chinese": "巢",
+            "image_uri": "http://localhost:3000/images/nest.svg",
+            "mongolian_pronounce": "audios/e_nest.mp3"
+        }
+    ],
+    "course_i": [
+        {
+            "mongolian": "ᠢᠯᠠᠭ᠎ᠠ",
+            "english": "Fly",
+            "chinese": "苍蝇",
+            "image_uri": "http://localhost:3000/images/fly.svg",
+            "mongolian_pronounce": "audios/i_fly.mp3"
+        },
+        {
+            "mongolian": "ᠢᠮᠠᠭ᠎ᠠ",
+            "english": "Goat",
+            "chinese": "山羊",
+            "image_uri": "http://localhost:3000/images/goat.svg",
+            "mongolian_pronounce": "audios/i_goat.mp3"
+        },
+        {
+            "mongolian": "ᠢᠨᠳᠦᠦ",
+            "english": "Iron",
+            "chinese": "熨斗",
+            "image_uri": "http://localhost:3000/images/iron.svg",
+            "mongolian_pronounce": "audios/i_iron.mp3"
+        },
+        {
+            "mongolian": "ᠢᠮᠵᠠ",
+            "english": "Kangaroo",
+            "chinese": "袋鼠",
+            "image_uri": "http://localhost:3000/images/kangaroo.svg",
+            "mongolian_pronounce": "audios/i_kangaroo.mp3"
+        },
+        {
+            "mongolian": "ᠢᠨᠢᠶᠡᠬᠦ",
+            "english": "Smile",
+            "chinese": "微笑",
+            "image_uri": "http://localhost:3000/images/smile.svg",
+            "mongolian_pronounce": "audios/i_smile.mp3"
+        }
+    ],
+    "course_o": [
+        {
+            "mongolian": "ᠣᠩᠭᠣᠴᠠ",
+            "english": "Boat",
+            "chinese": "船",
+            "image_uri": "http://localhost:3000/images/boat.svg",
+            "mongolian_pronounce": "audios/o_boat.mp3"
+        },
+        {
+            "mongolian": "ᠣᠳᠣ",
+            "english": "Star",
+            "chinese": "星星",
+            "image_uri": "http://localhost:3000/images/star.svg",
+            "mongolian_pronounce": "audios/o_star.mp3"
+        },
+        {
+            "mongolian": "ᠣᠢᠮᠣᠰᠤ",
+            "english": "Socks",
+            "chinese": "袜子",
+            "image_uri": "http://localhost:3000/images/socks.svg",
+            "mongolian_pronounce": "audios/o_socks.mp3"
+        },
+        {
+            "mongolian": "ᠣᠷᠴᠢᠯᠠᠩ",
+            "english": "Universe",
+            "chinese": "宇宙",
+            "image_uri": "http://localhost:3000/images/universe.svg",
+            "mongolian_pronounce": "audios/o_universe.mp3"
+        },
+        {
+            "mongolian": "ᠣᠷᠣᠢ",
+            "english": "Night",
+            "chinese": "夜晚",
+            "image_uri": "http://localhost:3000/images/night.svg",
+            "mongolian_pronounce": "audios/o_night.mp3"
+        }
+    ],
+    "course_u": [
+        {
+            "mongolian": "ᠤᠰᠤ",
+            "english": "Water",
+            "chinese": "水",
+            "image_uri": "http://localhost:3000/images/water.svg",
+            "mongolian_pronounce": "audios/u_water.mp3"
+        },
+        {
+            "mongolian": "ᠤᠲᠠᠰᠤ",
+            "english": "String",
+            "chinese": "绳子",
+            "image_uri": "http://localhost:3000/images/string.svg",
+            "mongolian_pronounce": "audios/u_string.mp3"
+        },
+        {
+            "mongolian": "ᠤᠯᠠᠭᠠᠨ",
+            "english": "Red",
+            "chinese": "红色",
+            "image_uri": "http://localhost:3000/images/red.svg",
+            "mongolian_pronounce": "audios/u_red.mp3"
+        },
+        {
+            "mongolian": "ᠤᠩᠰᠢᠬᠤ",
+            "english": "Read",
+            "chinese": "读",
+            "image_uri": "http://localhost:3000/images/read.svg",
+            "mongolian_pronounce": "audios/u_read.mp3"
+        },
+        {
+            "mongolian": "ᠤᠨᠲᠠᠬᠤ",
+            "english": "Sleep",
+            "chinese": "睡觉",
+            "image_uri": "http://localhost:3000/images/sleep.svg",
+            "mongolian_pronounce": "audios/u_sleep.mp3"
+        }
+    ],
+    "course_v": [
+        {
+            "mongolian": "ᠥᠨᠳᠡᠭᠡ",
+            "english": "Egg",
+            "chinese": "鸡蛋",
+            "image_uri": "http://localhost:3000/images/egg.svg",
+            "mongolian_pronounce": "audios/v_egg.mp3"
+        },
+        {
+            "mongolian": "ᠥᠳᠦ",
+            "english": "Feather",
+            "chinese": "羽毛",
+            "image_uri": "http://localhost:3000/images/feather.svg",
+            "mongolian_pronounce": "audios/v_feather.mp3"
+        },
+        {
+            "mongolian": "ᠥᠯᠦᠰᠬᠦ",
+            "english": "Hungry",
+            "chinese": "饿",
+            "image_uri": "http://localhost:3000/images/hungry.svg",
+            "mongolian_pronounce": "audios/v_hungry.mp3"
+        },
+        {
+            "mongolian": "ᠥᠮᠳᠦ",
+            "english": "Pants",
+            "chinese": "裤子",
+            "image_uri": "http://localhost:3000/images/pants.svg",
+            "mongolian_pronounce": "audios/v_pants.mp3"
+        },
+        {
+            "mongolian": "ᠥ үзᠡᠮ",
+            "english": "Raisin",
+            "chinese": "葡萄干",
+            "image_uri": "http://localhost:3000/images/raisin.svg",
+            "mongolian_pronounce": "audios/v_raisin.mp3"
+        }
+    ],
+    "course_w": [
+        {
+            "mongolian": "ᠦᠬᠡᠷ",
+            "english": "Cow",
+            "chinese": "牛",
+            "image_uri": "http://localhost:3000/images/cow.svg",
+            "mongolian_pronounce": "audios/w_cow.mp3"
+        },
+        {
+            "mongolian": "ᠦᠨᠡᠭᠡ",
+            "english": "Fox",
+            "chinese": "狐狸",
+            "image_uri": "http://localhost:3000/images/fox.svg",
+            "mongolian_pronounce": "audios/w_fox.mp3"
+        },
+        {
+            "mongolian": "ᠦᠰᠦ",
+            "english": "Hair",
+            "chinese": "头发",
+            "image_uri": "http://localhost:3000/images/hair.svg",
+            "mongolian_pronounce": "audios/w_hair.mp3"
+        },
+        {
+            "mongolian": "ᠦᠨᠳᠡᠰᠦ",
+            "english": "Root",
+            "chinese": "根",
+            "image_uri": "http://localhost:3000/images/root.svg",
+            "mongolian_pronounce": "audios/w_root.mp3"
+        },
+        {
+            "mongolian": "ᠦᠷ᠎ᠡ",
+            "english": "Seeds",
+            "chinese": "种子",
+            "image_uri": "http://localhost:3000/images/seeds.svg",
+            "mongolian_pronounce": "audios/w_seeds.mp3"
+        }
+    ],
+    "course_shulug": [
+        {
+            "title": "ᠪᠢ ᠮᠣᠩᠭᠣᠯ ᠬᠥᠮᠦᠨ",
+            "lines": [
+                "ᠠᠷᠭᠠᠯ ‍ᠤᠨ ᠤᠲᠤᠭ᠎ᠠ ᠪᠤᠷᠭᠢᠯᠤᠭᠰᠠᠨ",
+                "ᠮᠠᠯᠴᠢᠨ ‍ᠤ ᠭᠡᠷ ᠲᠦ᠍ ᠲᠥᠷᠥᠭᠰᠡᠨ ᠪᠢ",
+                "ᠠᠲᠠᠷ ᠬᠡᠭᠡᠷ᠎ᠡ ᠨᠤᠲᠤᠭ ‍ᠢᠶ᠋ᠠᠨ",
+                "ᠥᠯᠥᠭᠡᠢ ᠮᠢᠨᠢ ᠬᠢᠵᠦ ᠪᠤᠳᠤᠳᠠᠭ ᠃"
+            ],
+            "image_uri": "",
+            "mongolian_pronounce": "audios/p_bi mongol huun.mp3"
+        },
+        {
+            "title": "ᠰᠠᠢᠬᠠᠨ ᠳ᠋ᠠ",
+            "lines": [
+                "..."
+            ],
+            "image_uri": "",
+            "mongolian_pronounce": "audios/p_saihn da.mp3"
+        }
+    ]
+}

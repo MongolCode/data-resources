@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bowl -->
+  <path d="M20 40 L 80 40 Q 80 80 50 80 Q 20 80 20 40 Z" fill="#DEB887" stroke="#8B4513" stroke-width="2"/>
+  <!-- Rim -->
+  <ellipse cx="50" cy="40" rx="30" ry="10" fill="#F5DEB3" stroke="#8B4513" stroke-width="2"/>
+  <!-- Soup/Content -->
+  <ellipse cx="50" cy="40" rx="25" ry="8" fill="#8B0000"/>
+</svg>

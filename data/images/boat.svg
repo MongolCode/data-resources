@@ -1,0 +1,10 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Water -->
+  <path d="M0 70 Q 25 80 50 70 Q 75 60 100 70 L 100 100 L 0 100 Z" fill="#1E90FF"/>
+  <!-- Boat Hull -->
+  <path d="M20 70 L 30 90 L 70 90 L 80 70 Z" fill="#8B4513" stroke="#A0522D" stroke-width="2"/>
+  <!-- Mast -->
+  <line x1="50" y1="70" x2="50" y2="30" stroke="#A0522D" stroke-width="3"/>
+  <!-- Sail -->
+  <path d="M52 30 L 52 65 L 80 60 Z" fill="#FFFFFF" stroke="#D3D3D3" stroke-width="1"/>
+</svg>

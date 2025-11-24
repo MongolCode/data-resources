@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Raisin -->
+  <path d="M30 40 Q 20 60 35 80 Q 60 90 70 70 Q 80 50 60 30 Q 40 20 30 40 Z" fill="#4B0082" stroke="#2E0854" stroke-width="2"/>
+  <!-- Wrinkles -->
+  <path d="M40 40 Q 50 50 45 60" stroke="#2E0854" stroke-width="1" fill="none"/>
+  <path d="M55 40 Q 60 50 55 70" stroke="#2E0854" stroke-width="1" fill="none"/>
+  <path d="M35 60 Q 45 70 60 65" stroke="#2E0854" stroke-width="1" fill="none"/>
+</svg>

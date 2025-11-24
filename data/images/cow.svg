@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <path d="M30 40 Q 50 80 70 40 Q 50 20 30 40" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+  <!-- Spots -->
+  <path d="M35 45 Q 40 50 35 55" fill="#000000"/>
+  <path d="M60 35 Q 65 40 60 45" fill="#000000"/>
+  <!-- Horns -->
+  <path d="M30 30 Q 20 20 25 10" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <path d="M70 30 Q 80 20 75 10" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <!-- Ears -->
+  <ellipse cx="20" cy="40" rx="8" ry="4" fill="#FFFFFF" stroke="#000000" stroke-width="1" transform="rotate(-20 20 40)"/>
+  <ellipse cx="80" cy="40" rx="8" ry="4" fill="#FFFFFF" stroke="#000000" stroke-width="1" transform="rotate(20 80 40)"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="45" r="2" fill="#000000"/>
+  <circle cx="60" cy="45" r="2" fill="#000000"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="65" rx="15" ry="10" fill="#FFC0CB" stroke="#000000" stroke-width="1"/>
+  <circle cx="45" cy="65" r="2" fill="#000000"/>
+  <circle cx="55" cy="65" r="2" fill="#000000"/>
+</svg>

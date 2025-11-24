@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold Bar 1 -->
+  <path d="M20 60 L 70 60 L 80 40 L 30 40 Z" fill="#FFD700" stroke="#DAA520" stroke-width="1"/>
+  <path d="M20 60 L 20 80 L 70 80 L 70 60 Z" fill="#DAA520" stroke="#B8860B" stroke-width="1"/>
+  <path d="M70 60 L 80 40 L 80 60 L 70 80 Z" fill="#B8860B" stroke="#8B4513" stroke-width="1"/>
+  <!-- Gold Bar 2 (Stacked) -->
+  <path d="M30 30 L 80 30 L 90 10 L 40 10 Z" fill="#FFD700" stroke="#DAA520" stroke-width="1"/>
+  <path d="M30 30 L 30 50 L 80 50 L 80 30 Z" fill="#DAA520" stroke="#B8860B" stroke-width="1"/>
+  <path d="M80 30 L 90 10 L 90 30 L 80 50 Z" fill="#B8860B" stroke="#8B4513" stroke-width="1"/>
+  <!-- Shine -->
+  <path d="M40 20 L 50 20 L 45 30 Z" fill="#FFFFFF" opacity="0.6"/>
+</svg>

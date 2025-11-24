@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Folded Towel -->
+  <path d="M20 30 L 80 30 L 80 80 L 20 80 Z" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="2"/>
+  <path d="M20 30 L 80 30 L 70 20 L 30 20 Z" fill="#B0E0E6" stroke="#ADD8E6" stroke-width="2"/>
+  <!-- Texture/Folds -->
+  <line x1="20" y1="40" x2="80" y2="40" stroke="#ADD8E6" stroke-width="1"/>
+  <line x1="20" y1="50" x2="80" y2="50" stroke="#ADD8E6" stroke-width="1"/>
+  <line x1="20" y1="60" x2="80" y2="60" stroke="#ADD8E6" stroke-width="1"/>
+</svg>

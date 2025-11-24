@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Drop -->
+  <path d="M50 10 Q 80 50 80 70 A 30 30 0 1 1 20 70 Q 20 50 50 10 Z" fill="#00BFFF" stroke="#1E90FF" stroke-width="2"/>
+  <!-- Shine -->
+  <path d="M60 30 Q 70 50 65 70" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.6"/>
+</svg>

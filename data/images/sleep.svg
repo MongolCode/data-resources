@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bed/Pillow -->
+  <rect x="10" y="60" width="80" height="30" rx="5" fill="#4682B4"/>
+  <rect x="15" y="50" width="30" height="20" rx="5" fill="#FFFFFF"/>
+  <!-- Zzz -->
+  <text x="60" y="40" font-family="Arial" font-size="20" fill="#000000">Z</text>
+  <text x="75" y="30" font-family="Arial" font-size="15" fill="#000000">Z</text>
+  <text x="85" y="20" font-family="Arial" font-size="10" fill="#000000">Z</text>
+</svg>

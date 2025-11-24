@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base -->
+  <path d="M10 80 L 90 80 L 80 60 L 20 60 Z" fill="#C0C0C0" stroke="#696969" stroke-width="2"/>
+  <!-- Handle -->
+  <path d="M25 60 Q 25 30 50 30 Q 75 30 75 60" stroke="#000000" stroke-width="8" fill="none"/>
+  <!-- Body -->
+  <rect x="25" y="55" width="50" height="10" fill="#A9A9A9"/>
+</svg>

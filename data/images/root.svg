@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ground -->
+  <line x1="10" y1="40" x2="90" y2="40" stroke="#8B4513" stroke-width="2"/>
+  <!-- Plant Stem -->
+  <path d="M50 40 L 50 20" stroke="#228B22" stroke-width="3"/>
+  <path d="M50 20 Q 30 10 20 20" stroke="#228B22" stroke-width="2" fill="none"/>
+  <path d="M50 20 Q 70 10 80 20" stroke="#228B22" stroke-width="2" fill="none"/>
+  <!-- Roots -->
+  <path d="M50 40 Q 40 60 30 80" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <path d="M50 40 Q 60 60 70 80" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <path d="M50 40 L 50 90" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <path d="M50 50 Q 30 50 20 60" stroke="#8B4513" stroke-width="2" fill="none"/>
+  <path d="M50 60 Q 70 60 80 70" stroke="#8B4513" stroke-width="2" fill="none"/>
+</svg>

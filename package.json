@@ -1,0 +1,11 @@
+{
+  "name": "data-resources",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "json-server --watch data/db.json --port 3000 --static ./data",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

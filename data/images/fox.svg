@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <path d="M20 30 L 50 80 L 80 30 Q 50 10 20 30 Z" fill="#FF8C00" stroke="#D2691E" stroke-width="2"/>
+  <!-- Cheeks -->
+  <path d="M20 30 L 50 80 L 35 55 Z" fill="#FFFFFF"/>
+  <path d="M80 30 L 50 80 L 65 55 Z" fill="#FFFFFF"/>
+  <!-- Ears -->
+  <path d="M20 30 L 10 10 L 35 25 Z" fill="#FF8C00" stroke="#D2691E" stroke-width="2"/>
+  <path d="M80 30 L 90 10 L 65 25 Z" fill="#FF8C00" stroke="#D2691E" stroke-width="2"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="45" r="3" fill="#000000"/>
+  <circle cx="60" cy="45" r="3" fill="#000000"/>
+  <!-- Nose -->
+  <circle cx="50" cy="75" r="4" fill="#000000"/>
+</svg>

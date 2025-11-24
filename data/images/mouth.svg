@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lips -->
+  <path d="M10 50 Q 50 20 90 50 Q 50 80 10 50" fill="#FF69B4" stroke="#C71585" stroke-width="2"/>
+  <!-- Opening -->
+  <path d="M20 50 Q 50 60 80 50 Q 50 70 20 50" fill="#8B0000"/>
+  <!-- Teeth -->
+  <path d="M30 50 L 70 50 L 65 55 L 35 55 Z" fill="#FFFFFF"/>
+</svg>

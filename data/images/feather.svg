@@ -1,0 +1,12 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Feather Shaft -->
+  <path d="M50 10 Q 60 50 40 90" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+  <!-- Feather Vane -->
+  <path d="M50 10 Q 90 30 60 80 L 40 90 L 40 80 Q 10 30 50 10 Z" fill="#87CEEB" stroke="#4682B4" stroke-width="2"/>
+  <!-- Details -->
+  <path d="M50 10 Q 55 40 45 80" stroke="#4682B4" stroke-width="1" fill="none"/>
+  <path d="M52 30 L 70 25" stroke="#4682B4" stroke-width="1"/>
+  <path d="M48 30 L 30 25" stroke="#4682B4" stroke-width="1"/>
+  <path d="M51 50 L 65 45" stroke="#4682B4" stroke-width="1"/>
+  <path d="M49 50 L 35 45" stroke="#4682B4" stroke-width="1"/>
+</svg>
