@@ -1,0 +1,368 @@
+{
+  "courses": {
+    "a": {
+      "id": "a",
+      "mongolian": "ᠠ",
+      "english": "a",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "apple": {
+          "mongolian": "ᠠᠯᠮᠤᠷᠠᠳ",
+          "english": "Apple",
+          "chinese": "苹果",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fapple.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_apple1.mp3?alt=media"
+        },
+        "gold": {
+          "mongolian": "ᠠᠯᠲᠠ",
+          "english": "Gold",
+          "chinese": "金",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fgold.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_gold.mp3?alt=media"
+        },
+        "mouth": {
+          "mongolian": "ᠠᠮᠠ",
+          "english": "Mouth",
+          "chinese": "嘴",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fmouth.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_mouth.mp3?alt=media"
+        },
+        "towel": {
+          "mongolian": "ᠠᠯᠴᠢᠭᠤᠷ",
+          "english": "Towel",
+          "chinese": "毛巾",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Ftowel.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_towel.mp3?alt=media"
+        },
+        "lion": {
+          "mongolian": "ᠠᠷᠰᠯᠠᠨ",
+          "english": "Lion",
+          "chinese": "狮子",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Flion.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_lion.mp3?alt=media"
+        },
+        "bowl": {
+          "mongolian": "ᠠᠶᠠᠭ᠎ᠠ",
+          "english": "Bowl",
+          "chinese": "碗",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fbowl.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_bowl.mp3?alt=media"
+        },
+        "giraffe": {
+          "mongolian": "ᠠᠨᠠᠱᠢ",
+          "english": "Giraffe",
+          "chinese": "长颈鹿",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fgiraffe.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fa_giraffe.mp3?alt=media"
+        }
+      }
+    },
+    "e": {
+      "id": "e",
+      "mongolian": "ᠡ",
+      "english": "e",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "butterfly": {
+          "mongolian": "ᠡᠷᠪᠡᠬᠡᠢ",
+          "english": "Butterfly",
+          "chinese": "蝴蝶",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fbutterfly.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_butterfly.mp3?alt=media"
+        },
+        "cloud": {
+          "mongolian": "ᠡᠭᠦᠯᠡ",
+          "english": "Cloud",
+          "chinese": "云",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fcloud.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_cloud.mp3?alt=media"
+        },
+        "donkey": {
+          "mongolian": "ᠡᠯᠵᠢᠭᠡ",
+          "english": "Donkey",
+          "chinese": "驴",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fdonkey.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_donkey.mp3?alt=media"
+        },
+        "grass": {
+          "mongolian": "ᠡᠪᠡᠰᠦ",
+          "english": "Grass",
+          "chinese": "草",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fgrass.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_grass.mp3?alt=media"
+        },
+        "horn": {
+          "mongolian": "ᠡᠪᠡᠷ",
+          "english": "Horn",
+          "chinese": "角",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fhorn.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_horn.mp3?alt=media"
+        },
+        "nest": {
+          "mongolian": "ᠡᠭᠦᠷ",
+          "english": "Nest",
+          "chinese": "巢",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fnest.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fe_nest.mp3?alt=media"
+        }
+      }
+    },
+    "i": {
+      "id": "i",
+      "mongolian": "ᠢ",
+      "english": "i",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "fly": {
+          "mongolian": "ᠢᠯᠠᠭ᠎ᠠ",
+          "english": "Fly",
+          "chinese": "苍蝇",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Ffly.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fi_fly.mp3?alt=media"
+        },
+        "goat": {
+          "mongolian": "ᠢᠮᠠᠭ᠎ᠠ",
+          "english": "Goat",
+          "chinese": "山羊",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fgoat.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fi_goat.mp3?alt=media"
+        },
+        "iron": {
+          "mongolian": "ᠢᠨᠳᠦᠦ",
+          "english": "Iron",
+          "chinese": "熨斗",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Firon.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fi_iron.mp3?alt=media"
+        },
+        "kangaroo": {
+          "mongolian": "ᠢᠮᠵᠠ",
+          "english": "Kangaroo",
+          "chinese": "袋鼠",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fkangaroo.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fi_kangaroo.mp3?alt=media"
+        },
+        "smile": {
+          "mongolian": "ᠢᠨᠢᠶᠡᠬᠦ",
+          "english": "Smile",
+          "chinese": "微笑",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fsmile.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fi_smile.mp3?alt=media"
+        }
+      }
+    },
+    "o": {
+      "id": "o",
+      "mongolian": "ᠤ",
+      "english": "o",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "boat": {
+          "mongolian": "ᠣᠩᠭᠣᠴᠠ",
+          "english": "Boat",
+          "chinese": "船",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fboat.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fo_boat.mp3?alt=media"
+        },
+        "star": {
+          "mongolian": "ᠣᠳᠣ",
+          "english": "Star",
+          "chinese": "星星",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fstar.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fo_star.mp3?alt=media"
+        },
+        "socks": {
+          "mongolian": "ᠣᠢᠮᠣᠰᠤ",
+          "english": "Socks",
+          "chinese": "袜子",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fsocks.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fo_socks.mp3?alt=media"
+        },
+        "universe": {
+          "mongolian": "ᠣᠷᠴᠢᠯᠠᠩ",
+          "english": "Universe",
+          "chinese": "宇宙",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Funiverse.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fo_universe.mp3?alt=media"
+        },
+        "night": {
+          "mongolian": "ᠣᠷᠣᠢ",
+          "english": "Night",
+          "chinese": "夜晚",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fnight.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fo_night.mp3?alt=media"
+        }
+      }
+    },
+    "u": {
+      "id": "u",
+      "mongolian": "ᠤ",
+      "english": "u",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "water": {
+          "mongolian": "ᠤᠰᠤ",
+          "english": "Water",
+          "chinese": "水",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fwater.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fu_water.mp3?alt=media"
+        },
+        "string": {
+          "mongolian": "ᠤᠲᠠᠰᠤ",
+          "english": "String",
+          "chinese": "绳子",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fstring.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fu_string.mp3?alt=media"
+        },
+        "red": {
+          "mongolian": "ᠤᠯᠠᠭᠠᠨ",
+          "english": "Red",
+          "chinese": "红色",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fred.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fu_red.mp3?alt=media"
+        },
+        "read": {
+          "mongolian": "ᠤᠩᠰᠢᠬᠤ",
+          "english": "Read",
+          "chinese": "读",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fread.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fu_read.mp3?alt=media"
+        },
+        "sleep": {
+          "mongolian": "ᠤᠨᠲᠠᠬᠤ",
+          "english": "Sleep",
+          "chinese": "睡觉",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fsleep.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fu_sleep.mp3?alt=media"
+        }
+      }
+    },
+    "v": {
+      "id": "v",
+      "mongolian": "ᠥ",
+      "english": "o",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "words": {
+        "egg": {
+          "mongolian": "ᠥᠨᠳᠡᠭᠡ",
+          "english": "Egg",
+          "chinese": "鸡蛋",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fegg.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fv_egg.mp3?alt=media"
+        },
+        "feather": {
+          "mongolian": "ᠥᠳᠦ",
+          "english": "Feather",
+          "chinese": "羽毛",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Ffeather.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fv_feather.mp3?alt=media"
+        },
+        "hungry": {
+          "mongolian": "ᠥᠯᠦᠰᠬᠦ",
+          "english": "Hungry",
+          "chinese": "饿",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fhungry.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fv_hungry.mp3?alt=media"
+        },
+        "pants": {
+          "mongolian": "ᠥᠮᠳᠦ",
+          "english": "Pants",
+          "chinese": "裤子",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fpants.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fv_pants.mp3?alt=media"
+        },
+        "raisin": {
+          "mongolian": "ᠥ үзᠡᠮ",
+          "english": "Raisin",
+          "chinese": "葡萄干",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fraisin.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fv_raisin.mp3?alt=media"
+        }
+      }
+    },
+    "w": {
+      "id": "w",
+      "mongolian": "ᠦ",
+      "english": "v",
+      "image_uri": "",
+      "mongolian_pronounce": "a",
+      "words": {
+        "cow": {
+          "mongolian": "ᠦᠬᠡᠷ",
+          "english": "Cow",
+          "chinese": "牛",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fcow.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fw_cow.mp3?alt=media"
+        },
+        "fox": {
+          "mongolian": "ᠦᠨᠡᠭᠡ",
+          "english": "Fox",
+          "chinese": "狐狸",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Ffox.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fw_fox.mp3?alt=media"
+        },
+        "hair": {
+          "mongolian": "ᠦᠰᠦ",
+          "english": "Hair",
+          "chinese": "头发",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fhair.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fw_hair.mp3?alt=media"
+        },
+        "root": {
+          "mongolian": "ᠦᠨᠳᠡᠰᠦ",
+          "english": "Root",
+          "chinese": "根",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Froot.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fw_root.mp3?alt=media"
+        },
+        "seeds": {
+          "mongolian": "ᠦᠷ᠎ᠡ",
+          "english": "Seeds",
+          "chinese": "种子",
+          "image_uri": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/images%2Fseeds.svg?alt=media",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fw_seeds.mp3?alt=media"
+        }
+      }
+    },
+    "shulug": {
+      "id": "shulug",
+      "mongolian": "ᠰᠢᠯᠦᠭ",
+      "english": "Poem",
+      "image_uri": "",
+      "mongolian_pronounce": "",
+      "poems": {
+        "bi_mongol_huun": {
+          "title": "ᠪᠢ ᠮᠣᠩᠭᠣᠯ ᠬᠥᠮᠦᠨ",
+          "lines": [
+            "ᠠᠷᠭᠠᠯ ‍ᠤᠨ ᠤᠲᠤᠭ᠎ᠠ ᠪᠤᠷᠭᠢᠯᠤᠭᠰᠠᠨ",
+            "ᠮᠠᠯᠴᠢᠨ ‍ᠤ ᠭᠡᠷ ᠲᠦ᠍ ᠲᠥᠷᠥᠭᠰᠡᠨ ᠪᠢ",
+            "ᠠᠲᠠᠷ ᠬᠡᠭᠡᠷ᠎ᠡ ᠨᠤᠲᠤᠭ ‍ᠢᠶ᠋ᠠᠨ",
+            "ᠥᠯᠥᠭᠡᠢ ᠮᠢᠨᠢ ᠬᠢᠵᠦ ᠪᠤᠳᠤᠳᠠᠭ ᠃"
+          ],
+          "image_uri": "",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fp_bi%20mongol%20huun.mp3?alt=media"
+        },
+        "saihn_da": {
+          "title": "ᠰᠠᠢᠬᠠᠨ ᠳ᠋ᠠ",
+          "lines": [
+            "ᠡᠵᠢ ᠶ᠋ᠢᠨ ᠮᠢᠨᠢ ᠣᠶᠣᠭᠠᠳ ᠦᠭᠭᠦᠭᠰᠡᠨ",
+            "ᠡᠷᠢᠶᠡᠨ  ᠪᠣᠭᠴᠣ ᠨᠢ ᠭᠠ  ᠭᠠ   ᠰᠢᠦ ",
+            "ᠡᠷᠳᠡᠮ ᠨᠣᠮ ‍ᠢ ᠰᠤᠷᠬᠤ ᠪᠠᠷ ",
+            " ᠡᠭᠦᠷᠦᠭᠡᠳ ᠶᠠᠪᠤᠬᠤ ᠳ᠋ᠤ᠌ ᠰᠠᠶ᠋ᠢᠬᠠᠨ ᠳ᠋ᠠ ",
+            " ᠠᠪᠤ ᠶ᠋ᠢᠨ ᠮᠢᠨᠢ ᠠᠪᠤᠭᠠᠳ ᠦᠭᠭᠦᠭᠰᠡᠨ",
+            " ᠠᠯᠠᠭ  ᠪᠢᠷ ᠨᠢ  ᠭᠠ  ᠭᠠ   ᠰᠢᠦ ",
+            " ᠠ  ᠡ  ᠢ   ᠭᠡᠳ  ᠪᠢᠴᠢᠬᠦ ᠳ᠋ᠦ᠍ ",
+            " ᠠᠶ᠎ᠠ ᠶ᠋ᠢ ᠳᠠᠭᠠᠭᠠᠳ ᠰᠠᠶ᠋ᠢᠬᠠᠨ  ᠳ᠋ᠠ ᠃ "
+          ],
+          "image_uri": "",
+          "mongolian_pronounce": "https://firebasestorage.googleapis.com/v0/b/sagsalhuu.firebasestorage.app/o/audios%2Fp_saihn%20da.mp3?alt=media"
+        }
+      }
+    }
+  }
+}

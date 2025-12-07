@@ -1,0 +1,24 @@
+{
+  "rules": {
+    ".read": false,
+    "courses": {
+      ".read": true,
+      ".write": "auth != null",
+      "$courseId": {
+        // Validate that a course has the required fields
+        ".validate": "newData.hasChildren(['id', 'english', 'mongolian'])",
+        "words": {
+          "$wordId": {
+            // specific validation for words if needed
+            ".validate": "newData.hasChildren(['english', 'mongolian', 'image_uri'])"
+          }
+        },
+        "poems": {
+           "$poemId": {
+             ".validate": "newData.hasChildren(['title', 'lines'])"
+           }
+        }
+      }
+    }
+  }
+}
