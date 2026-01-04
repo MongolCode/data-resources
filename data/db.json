@@ -293,7 +293,7 @@
             "mongolian_pronounce": "audios/v_pants.mp3"
         },
         {
-            "mongolian": "ᠥ үзᠡᠮ",
+            "mongolian": "ᠥᠵᠤᠮ", 
             "english": "Raisin",
             "chinese": "葡萄干",
             "image_uri": "http://localhost:3000/images/raisin.svg",

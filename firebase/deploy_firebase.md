@@ -80,7 +80,16 @@ We have created a `database.rules.json` file that provides granular security, al
 3.  **Paste it** into the rules editor in the console.
 4.  Click **"Publish"**.
 
-## Step 8: Connect Your Application
+## Step 8: Secure Your Storage
+
+We have created a `storage.rules` file that allows public read access to your media files while restricting uploads.
+
+1.  **Go to the Rules tab** in the Storage section of the Firebase Console.
+2.  **Copy the content** of `storage.rules` located in the `firebase/` directory.
+3.  **Paste it** into the rules editor in the console.
+4.  Click **"Publish"**.
+
+## Step 9: Connect Your Application
 
 In your Angular application, you will now use the Firebase SDK to connect to the Realtime Database instead of making HTTP requests to `localhost:3000`.
 
